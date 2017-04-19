@@ -14,4 +14,4 @@ directoryName = "/path/"
 
 ## actually code.
 subprocess.call(['rclone', 'copy', cloudAccount + cloudPathName, directoryName])
-print("Downloading: " +  ys.argv[1]])
+print("Downloading: " +  sys.argv[1]])
