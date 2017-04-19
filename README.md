@@ -19,3 +19,7 @@ Replace on rclone_python.py:
 Can Replace, but neccessary:
   - server.js
     - Openingport
+    
+    
+To run:
+  - nodejs server.js
